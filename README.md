@@ -1,3 +1,3 @@
 # maroua-project
 
-### This is a test for Maroua, Andrew & Benjamin :) 
+### This is a test for Maroua & Benjamin :) 
